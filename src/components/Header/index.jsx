@@ -10,7 +10,7 @@ const Header = () => {
             <input type="text" />
             <ul>
               <li>
-                <a href="#">Home</a>
+                <a href="#">Ok</a>
               </li>
               <li>
                 <a href="#">About</a>
