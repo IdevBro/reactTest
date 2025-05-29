@@ -1,4 +1,93 @@
 .header {
   padding: 30px 0;
-  background-color: rgba(0, 0, 0, 0.7);
+ 
+}
+.inp{
+  width: 358px;
+  height: 48px;
+  border-radius: 184px;
+  border-width: 0.5px;
+  background: none;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 24px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 8px 12px;
+  border-radius: 999px;
+}
+
+.search-box input {
+  border: none;
+  outline: none;
+  background: transparent;
+  color: white;
+  margin-left: 8px;
+}
+
+.search-icon {
+  color: white;
+}
+
+.center-section nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.center-section a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.chevron-icon {
+  font-size: 10px;
+  margin-left: 4px;
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.icon {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.wallet-button {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 6px 12px;
+  border-radius: 6px;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
 }
