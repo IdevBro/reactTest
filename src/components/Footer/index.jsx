@@ -32,7 +32,7 @@ const Footer = () => {
             <div className="imgs">
               <img src="https://api.removal.ai/download/g2/preview/6175c86e-8e78-4dd4-82c9-7411ab33b71f.png" alt="" />
               <img src="https://api.removal.ai/download/g3/preview/e2e22126-e787-45c2-bfd3-0214e7ad6298.png" alt="" />
-              <img src="" alt="" />
+              <img src="https://api.removal.ai/download/g1/preview/b55fe13f-61e1-4b54-bfdd-170122def6a3.png" alt="" />
 
             </div>
         </div>

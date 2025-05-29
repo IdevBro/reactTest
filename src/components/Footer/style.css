@@ -18,4 +18,15 @@ h3{
 }
 p{
   margin-top: 20px;
+  color: grey;
+}
+img{
+  width: 25px;
+  height: 25px;
+
+}
+.imgs{
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
 }
