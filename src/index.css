@@ -1,10 +1,42 @@
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-.container {
+
+.container{
   max-width: 1200px;
   width: 100%;
   margin: 0 auto;
+}
+/* .header{
+  background-color: orange;
+  padding: 45px 0;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  font-size: 36px;
+}
+.icons{
+  display: flex;
+  gap: 30px;
+} */
+
+
+/* Header-end */
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+.fatherCard{
+  display: flex;
+  justify-content: space-between;
 }
