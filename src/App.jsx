@@ -1,9 +1,9 @@
-import Header from "./components/Header";
 import MyIcons from "./components/Icons";
+import Footer from "./components/Footer";
 const App = () => {
   return (
     <div>
-      <Header />
+      <Footer/>
     </div>
   );
 };
