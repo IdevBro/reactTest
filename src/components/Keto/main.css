@@ -1,62 +1,60 @@
-h3{
-    /* margin-top: 65px; */
-    font-size: 26px;
-    font-weight: 700;
+h3 {
+  /* margin-top: 65px; */
+  font-size: 26px;
+  font-weight: 700;
 }
-.text{
-    color: #F6B100;
-    font-size: 20px;
-    font-weight: 600;
+.text {
+  color: #f6b100;
+  font-size: 20px;
+  font-weight: 600;
 }
-.card{
-    background-color: rgba(196, 196, 255, 0.2);
-    margin-top: 200px;
-    width: 284px;
-    border-radius: 7px;
-    height: 434px;
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
-
+.card {
+  background-color: rgba(196, 196, 255, 0.2);
+  width: 284px;
+  border-radius: 7px;
+  height: 434px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
 }
-.keto_img{
-    width: 246px;
-    height: 277px;
-    border-radius: 7px;
-    margin: 18px;
+.keto_img {
+  width: 246px;
+  height: 277px;
+  border-radius: 7px;
+  margin: 18px;
 }
-.card-content{
-    display: flex;
-    justify-content: space-around;
-    gap: 43px;
-    color: gray;
-    font-size: 20px;
+.card-content {
+  display: flex;
+  justify-content: space-around;
+  gap: 43px;
+  color: gray;
+  font-size: 20px;
 }
-.card-header{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-top: 2px;
-    font-size: 15px;
-    font-weight: 700;
-    color: white;
+.card-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 2px;
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
 }
-.card-footer{
-    margin-top: 10px;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+.card-footer {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
-.card-footer button{
-    width: 212px;
-    height: 40px;
-    border-radius: 7px;
-    background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
-    border: none;
-    cursor: pointer;
-    color: white;
-    font-weight: 600;
-    font-size: 17px;
+.card-footer button {
+  width: 212px;
+  height: 40px;
+  border-radius: 7px;
+  background: linear-gradient(214.02deg, #b75cff 6.04%, #671ae4 92.95%);
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+  font-size: 17px;
 }
-.btn_img{
-    width: 25px;
-    height: 20px;
+.btn_img {
+  width: 25px;
+  height: 20px;
 }

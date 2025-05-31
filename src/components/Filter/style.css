@@ -1,60 +1,54 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 /* Umumiy filter konteyner */
 .filter-wrapper {
-    width: 250px;
-    height: 100vh;
-    background: linear-gradient(to bottom, #5d3a4c, #3c2b4a);
-    padding: 16px;
-    color: white;
-    font-family: sans-serif;
-  }
-  
-  /* Filter sarlavhasi */
-  .filter-header {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 20px;
-  }
-  
-  .filter-icon {
-    font-size: 18px;
-  }
-  
-  /* Har bir bo‘lim */
-  .filter-section {
-    margin-bottom: 10px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-    padding-bottom: 8px;
-  }
-  
-  /* Bo‘lim sarlavhasi (bosiladigan tugma) */
-  .filter-title {
-    background: none;
-    border: none;
-    color: white;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    width: 100%;
-    text-align: left;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 6px 0;
-    transition: 0.3s ease;
-  }
-  
-  .filter-title:hover {
-    color: #ddd;
-  }
-  
-  
-  
-  
-  
- 
+  width: 250px;
+  height: 100vh;
+  background: linear-gradient(to bottom, #5d3a4c, #3c2b4a);
+  padding: 16px;
+  color: white;
+  font-family: sans-serif;
+}
+
+/* Filter sarlavhasi */
+.filter-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filter-icon {
+  font-size: 18px;
+}
+
+/* Har bir bo‘lim */
+.filter-section {
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-bottom: 8px;
+}
+
+/* Bo‘lim sarlavhasi (bosiladigan tugma) */
+.filter-title {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 0;
+  transition: 0.3s ease;
+}
+
+.filter-title:hover {
+  color: #ddd;
+}

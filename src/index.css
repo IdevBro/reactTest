@@ -35,6 +35,8 @@ body {
   justify-content: space-between;
 }
 
-.ok {
-  color: red;
+.mainDiv {
+  display: flex;
+  padding-top: 100px;
+  gap: 30px;
 }
