@@ -1,7 +1,6 @@
 import "./style.css";
 import MyIcons from "../Icons";
-import Avatar from "../../../public/assets/images/user.png"
-
+import Avatar from "../../../public/assets/images/user.png";
 
 const Header = () => {
   return (
