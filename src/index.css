@@ -28,6 +28,9 @@ body {
   gap: 30px;
 }
 .fatherCard {
+  background-repeat: no-repeat;
+  background-size: cover;
+
   display: flex;
   justify-content: space-between;
 }
