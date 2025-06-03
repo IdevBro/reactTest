@@ -6,8 +6,6 @@
 /* Umumiy filter konteyner */
 .filter-wrapper {
   width: 250px;
-  height: 100vh;
-  background: linear-gradient(to bottom, #5d3a4c, #3c2b4a);
   padding: 16px;
   color: white;
   font-family: sans-serif;
